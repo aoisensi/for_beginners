@@ -12,8 +12,14 @@ function Activate()
 	GameRules.AddonTemplate:InitGameMode()
 end
 
+function CDOTA_Modifier_Lua:GetClass()
+    return "CDOTA_Modifier_Lua"
+end
+
 function CAddonTemplateGameMode:InitGameMode()
 	print( "For Beginners addon is loaded." )
-	local hRoshanSpawner = Entities:FindByClassname(nil, "npc_dota_roshan_spawner")
-	hRoshanSpawner:Destroy()
+
+	-- Remove Roshan Spawner
+	local RoshanSpawner = Entities:FindByClassname(nil, "npc_dota_roshan_spawner")
+	RoshanSpawner:Destroy()
 end
