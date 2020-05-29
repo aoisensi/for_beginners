@@ -6,3 +6,4 @@
 ## Modifications
 
 - No Roshan
+- No Outpost

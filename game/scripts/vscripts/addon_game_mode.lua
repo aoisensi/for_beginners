@@ -22,4 +22,10 @@ function CAddonTemplateGameMode:InitGameMode()
 	-- Remove Roshan Spawner
 	local RoshanSpawner = Entities:FindByClassname(nil, "npc_dota_roshan_spawner")
 	RoshanSpawner:Destroy()
+
+	-- Remove Outpost
+	local TopOutpost = Entities:FindByName(nil, "npc_dota_watch_tower_top")
+	TopOutpost:Destroy()
+	local BottomOutpost = Entities:FindByName(nil, "npc_dota_watch_tower_bottom")
+	BottomOutpost:Destroy()
 end
