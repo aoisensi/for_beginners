@@ -12,6 +12,7 @@
 - No Complexity Items
   - Infused Raindrops
   - Bottle
+  - Sacred Relic
   - Hand of Midas
   - Holy Locket
   - Urn of Shadows

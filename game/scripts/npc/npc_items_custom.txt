@@ -8,6 +8,10 @@
 	{
 		"ItemPurchasable" "0"
 	}
+	"item_relic"
+	{
+		"ItemPurchasable" "0"
+	}
 	"item_recipe_hand_of_midas"
 	{
 		"ItemPurchasable" "0"
