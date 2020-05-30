@@ -1,0 +1,295 @@
+"DOTAAbilities"
+{	
+	"item_infused_raindrop"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_bottle"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_hand_of_midas"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_hand_of_midas"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_holy_locket"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_holy_locket"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_urn_of_shadows"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_urn_of_shadows"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_bloodthorn"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_bloodthorn"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_hurricane_pike"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_hurricane_pike"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_dagon"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_dagon_2"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_dagon_3"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_dagon_4"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_dagon_5"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_dagon"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_dagon_2"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_dagon_3"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_dagon_4"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_dagon_5"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_necronomicon"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_necronomicon_2"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_necronomicon_3"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_necronomicon"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_necronomicon_2"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_necronomicon_3"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_ultimate_scepter_2"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_ultimate_scepter_2"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_shivas_guard"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_shivas_guard"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_bloodstone"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_bloodstone"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_sphere"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_sphere"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_lotus_orb"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_lotus_orb"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_meteor_hammer"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_meteor_hammer"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_nullifier"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_nullifier"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_aeon_disk"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_aeon_disk"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_spirit_vessel"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_spirit_vessel"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_soul_booster"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_soul_booster"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_rapier"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_rapier"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_radiance"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_radiance"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_silver_edge"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_silver_edge"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_mjollnir"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_mjollnir"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_helm_of_the_dominator"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_helm_of_the_dominator"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_ethereal_blade"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_ethereal_blade"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_octarine_core"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_octarine_core"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_ancient_janggo"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_ancient_janggo"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_medallion_of_courage"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_medallion_of_courage"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_solar_crest"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_solar_crest"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_smoke_of_deceit"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_guardian_greaves"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_guardian_greaves"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_abyssal_blade"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_abyssal_blade"
+	{
+		"ItemPurchasable" "0"
+	}
+}
