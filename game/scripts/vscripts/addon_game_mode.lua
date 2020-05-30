@@ -46,4 +46,8 @@ function CAddonTemplateGameMode:InitGameMode()
 			Shopkeeper:Destroy()
 		end
 	end
+
+	-- Remove Neutral Stash
+	Entities:FindByName(nil, "radiant_neutral_item_stash"):Destroy()
+	Entities:FindByName(nil, "dire_neutral_item_stash"):Destroy()
 end
