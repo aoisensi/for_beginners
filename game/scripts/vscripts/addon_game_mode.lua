@@ -1,5 +1,6 @@
-if CAddonTemplateGameMode == nil then
-	CAddonTemplateGameMode = class({})
+
+if CForBeginners == nil then
+	CForBeginners = class({})
 end
 
 function Precache( context )
@@ -8,7 +9,7 @@ end
 
 -- Create the game mode when we activate
 function Activate()
-	GameRules.AddonTemplate = CAddonTemplateGameMode()
+	GameRules.AddonTemplate = CForBeginners()
 	GameRules.AddonTemplate:InitGameMode()
 end
 
@@ -16,7 +17,7 @@ function CDOTA_Modifier_Lua:GetClass()
     return "CDOTA_Modifier_Lua"
 end
 
-function CAddonTemplateGameMode:InitGameMode()
+function CForBeginners:InitGameMode()
 	print( "For Beginners addon is loaded." )
 
 	-- Spawn free Courier
@@ -50,4 +51,7 @@ function CAddonTemplateGameMode:InitGameMode()
 	-- Remove Neutral Stash
 	Entities:FindByName(nil, "radiant_neutral_item_stash"):Destroy()
 	Entities:FindByName(nil, "dire_neutral_item_stash"):Destroy()
+
+	-- Replace Neutral Spawner
+	-- I gave up
 end
