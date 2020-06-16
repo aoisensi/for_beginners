@@ -5,6 +5,7 @@
 
 ## Modifications
 
+- No Difficult Hero
 - No Roshan
 - No Outpost
 - No Secret Shop (All items can buy at spawn point)
