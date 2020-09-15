@@ -1,0 +1,15 @@
+// Units File
+"DOTAUnits"
+{
+	"Version"	"1"
+	
+	"npc_dota_observer_wards"
+	{
+		"WakesNeutrals" "0"
+	}
+
+	"npc_dota_sentry_wards"
+	{
+		"WakesNeutrals" "0"
+	}
+}	
