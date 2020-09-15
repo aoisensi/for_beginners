@@ -1,0 +1,9 @@
+"lang"
+{
+	"Language"	"English"
+	"Tokens"
+	{		
+		"addon_game_name"	"For Beginners"
+		"DOTA_GameMode_15"	"For Beginners"
+	}
+}
