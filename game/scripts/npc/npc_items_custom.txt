@@ -296,4 +296,28 @@
 	{
 		"ItemPurchasable" "0"
 	}
+	"item_recipe_invis_sword"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_invis_sword"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_silver_edge"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_silver_edge"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_shadow_amulet"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_dust"
+	{
+		"ItemPurchasable" "0"
+	}
 }
