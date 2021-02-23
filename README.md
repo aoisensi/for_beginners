@@ -12,3 +12,4 @@
 - No All Neutral Items
 - No Complexity Items
 - No Talents
+- No Special Runes (All Rune is Bounty Rune)
