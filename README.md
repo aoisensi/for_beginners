@@ -8,6 +8,7 @@
 - No Difficult Hero
 - No Roshan
 - No Outpost
-- No Secret Shop (All items can buy at spawn point)
-- No Neutral Items
+- No Secret Shop (All items can buy at fountain)
+- No All Neutral Items
 - No Complexity Items
+- No Talents
