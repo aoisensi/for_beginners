@@ -320,4 +320,72 @@
 	{
 		"ItemPurchasable" "0"
 	}
+	"item_recipe_gungir"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_gungir"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_ultimate_scepter"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_ultimate_scepter_2"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_ultimate_scepter"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_ultimate_scepter_2"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_aghanims_shard"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_eternal_shroud"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_eternal_shroud"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_mage_slayer"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_mage_slayer"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_overwhelming_blink"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_swift_blink"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_arcane_blink"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_arcane_blink"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_swift_blink"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_overwhelming_blink"
+	{
+		"ItemPurchasable" "0"
+	}
 }
