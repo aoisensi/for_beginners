@@ -10,5 +10,4 @@
 - No Outpost
 - No Secret Shop (All items can buy at spawn point)
 - No Neutral Items
-- No Wards Block Neutral Camp
 - No Complexity Items
