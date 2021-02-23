@@ -4,10 +4,6 @@
 	{
 		"ItemPurchasable" "0"
 	}
-	"item_bottle"
-	{
-		"ItemPurchasable" "0"
-	}
 	"item_relic"
 	{
 		"ItemPurchasable" "0"
