@@ -14,7 +14,7 @@ function Activate()
 end
 
 function CDOTA_Modifier_Lua:GetClass()
-    return "CDOTA_Modifier_Lua"
+	return "CDOTA_Modifier_Lua"
 end
 
 function CForBeginners:InitGameMode()
@@ -25,6 +25,8 @@ function CForBeginners:InitGameMode()
 
 	-- All items can buy at respawn point
 	GameRules:SetUseUniversalShopMode(true)
+
+	ListenToGameEvent('npc_spawned', Dynamic_Wrap(CForBeginners, 'OnNPCSpawned'), self)
 
 	-- Remove Roshan Spawner
 	local RoshanSpawner = Entities:FindByClassname(nil, "npc_dota_roshan_spawner")
@@ -54,4 +56,21 @@ function CForBeginners:InitGameMode()
 
 	-- Replace Neutral Spawner
 	-- I gave up
+end
+
+function CForBeginners:OnNPCSpawned(keys)
+	local Unit = EntIndexToHScript(keys.entindex)
+
+	if Unit:IsRealHero() and Unit.bFirstSpawned == nil and Unit:GetPlayerOwner() ~= nil then
+		-- Remove talents
+		for i = 0, 23 do
+			if Unit:GetAbilityByIndex(i) ~= nil then
+				local Ability = Unit:GetAbilityByIndex(i)
+				local Name = Ability:GetName()
+				if string.match(Name, "special_bonus") then
+					Unit:RemoveAbility(Name)
+				end
+			end
+		end
+	end
 end
