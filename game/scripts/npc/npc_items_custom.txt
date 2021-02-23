@@ -388,4 +388,20 @@
 	{
 		"ItemPurchasable" "0"
 	}
+	"item_recipe_witch_blade"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_witch_blade"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_recipe_wind_waker"
+	{
+		"ItemPurchasable" "0"
+	}
+	"item_wind_waker"
+	{
+		"ItemPurchasable" "0"
+	}
 }
