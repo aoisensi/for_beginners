@@ -56,6 +56,12 @@ function CForBeginners:InitGameMode()
 
 	-- Replace Neutral Spawner
 	-- I gave up
+
+	-- Remove Secret Shop
+	local RuneSpawners = Entities:FindAllByClassname("dota_item_rune_spawner_powerup")
+	for _, RuneSpawner in ipairs(RuneSpawners) do
+		RuneSpawner:Destroy()
+	end
 end
 
 function CForBeginners:OnNPCSpawned(keys)
